@@ -1,0 +1,86 @@
+body {
+    font-family: "Annie Use Your Telescope", cursive;
+    margin: 0%;
+    background-color: #191919;
+  }
+  .bgimg {
+    background-image: url("pizza.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    margin-top: -13rem;
+  }
+  .navbar {
+    background-color: black;
+    opacity: 0.7;
+  }
+  .navbar:hover {
+    background-color: black;
+    opacity: 1;
+  }
+  .nav-link {
+    font-size: large;
+    font-weight: 900;
+    color: white;
+  }
+  .nav-item:hover {
+    color: black;
+    background-color: aliceblue;
+  }
+  .active {
+  }
+  /* Center */
+  .center {
+    margin-top: 200px;
+  }
+  .center-head {
+    font-size: 4rem;
+    margin-top: 15rem;
+  }
+  .center-head-span {
+    margin-left: 6rem;
+  }
+  .content-center {
+    background-color: #191919;
+    width: 275px;
+    color: #191919;
+  }
+  .content-center:hover {
+    background-color: gray;
+    color: #fff;
+  
+  }
+  .content-center-b {
+    background-color: #191919;
+    width: 195px;
+  }
+  .center-b {
+    margin-top: 10rem;
+  }
+  .center-link {
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+  }
+  .bottom {
+    margin-top: 10rem;
+    color: #fff;
+    /* background-color: #fff; */
+  }
+  .col-bg {
+    
+  }
+  .row .col{
+      border: 1px solid #fff;
+      font-size: 30px;
+  }
+  
+  .content-link{
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .content-link:hover{
+    color: black;
+    
+  }
